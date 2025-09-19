@@ -19,4 +19,4 @@
 
 ![tmhnks](https://user-images.githubusercontent.com/28713602/93106871-25150400-f6b1-11ea-9949-586d8b632a22.gif)
 
-🔭 I’m currently working on [ClearURLs](https://github.com/ClearURLs) and [netsody](https://github.com/netsody)
+🔭 I’m currently working on [ClearURLs](https://github.com/ClearURLs) and [Netsody](https://github.com/netsody)
